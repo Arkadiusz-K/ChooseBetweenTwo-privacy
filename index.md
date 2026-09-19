@@ -1,8 +1,8 @@
-# Polityka prywatności aplikacji „Choose Between Two”
+# Polityka prywatności aplikacji „ChooseBetweenTwo”
 
 **Data wejścia w życie i ostatnia aktualizacja: 19 września 2026 r.**
 
-Niniejsza polityka opisuje zasady przetwarzania danych w aplikacji mobilnej „Choose Between Two” („Aplikacja”), udostępnianej przez Ventanesso („my”, „nas”). W sprawach dotyczących prywatności można skontaktować się z nami pod adresem [contact@ventanesso.pl](mailto:contact@ventanesso.pl).
+Niniejsza polityka opisuje zasady przetwarzania danych w aplikacji mobilnej „ChooseBetweenTwo” („Aplikacja”), udostępnianej przez Ventanesso („my”, „nas”). W sprawach dotyczących prywatności można skontaktować się z nami pod adresem [contact@ventanesso.pl](mailto:contact@ventanesso.pl).
 
 ## 1. Dane przechowywane lokalnie
 
@@ -56,11 +56,11 @@ Polityka może być aktualizowana w związku ze zmianami Aplikacji, usług zewn�
 
 ---
 
-# “Choose Between Two” App Privacy Policy
+# “ChooseBetweenTwo” App Privacy Policy
 
 **Effective date and last updated: September 19, 2026**
 
-This policy explains how data is handled in the “Choose Between Two” mobile application (the “App”), provided by Ventanesso (“we”, “us”). For privacy-related questions, contact [contact@ventanesso.pl](mailto:contact@ventanesso.pl).
+This policy explains how data is handled in the “ChooseBetweenTwo” mobile application (the “App”), provided by Ventanesso (“we”, “us”). For privacy-related questions, contact [contact@ventanesso.pl](mailto:contact@ventanesso.pl).
 
 ## 1. Data stored locally
 
@@ -111,5 +111,4 @@ Depending on where users live, they may have rights to information, access, corr
 ## 9. Changes to this policy
 
 We may update this policy following changes to the App, third-party services, or applicable law. The current version will be published at the same address and will show the latest update date.
-
 
